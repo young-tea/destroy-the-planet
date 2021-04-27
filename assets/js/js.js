@@ -33,7 +33,6 @@ function clickCounter() {
 
 		dpc = dpc * 2
 	
-
 		if (clicks == 5000) {
 
 			dpc = dpc * 2
@@ -87,6 +86,8 @@ function planetDestroy() {
 function destroyMin() {
 	document.getElementById('destroy').innerHTML = "          ";
 }
+
+
 
 
 
